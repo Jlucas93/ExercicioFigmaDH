@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.header{
+height: 85px;
+display:flex;
+align-items: center;
+justify-content: space-between;
+box-shadow: 10px 5px 5px gray;
+
+}
+.header-text{
+    margin-left: 70px;
+    display: flex;
+}
+.header-img{
+    margin-right: 70px;
+}
+.h6{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
