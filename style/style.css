@@ -20,10 +20,17 @@
 .header-img{
     margin-right: 70px;
 }
-.h6{
+.Title{
     display: flex;
     flex-direction: column;
-    margin-top: 15px;
+    margin-top: 7px;
+    margin-left: 3px;
+    color:#AAAAAA;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 11px;
 }
 
 .first-img{
